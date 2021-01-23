@@ -105,14 +105,12 @@ body{
 .col-2{
 	flex-basis:50%;
 	min-width: 250px;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding: 0 15px;	
 	}
 .col-2 img{
 	max-width: 100%;
 	padding: 50px 0;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding: 0 15px;
 	}
 
 .quan-row-1{
@@ -134,7 +132,7 @@ body{
 	}
 .quan-col-2 img{
 	max-width: 100%;
-	padding: 8px 0;
+	padding: 5px 0;
 	padding-left: 15px;
 	padding-right: 15px;
 	}
