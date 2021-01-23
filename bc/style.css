@@ -105,10 +105,12 @@ body{
 .col-2{
 	flex-basis:50%;
 	min-width: 300px;
+	align-items: center;
 	}
 .col-2 img{
 	max-width: 100%;
 	padding: 50px 0;
+	align-items: center;
 	}
 .btn{
 	display: inline-block;
