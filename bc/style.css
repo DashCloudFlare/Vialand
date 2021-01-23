@@ -112,7 +112,7 @@ body{
 
 .quan-row-1{
 	margin: 11vh auto 0;
-	max-width: 56%;
+	max-width: 72%;
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
@@ -121,12 +121,14 @@ body{
 	}
 .quan-col-2{
 	flex-basis:25%;
-	min-width: 400px;
+	min-width: 392px;
 	padding: 13px 1px 25px;
+	margin-left: 20px;
 	}
 .quan-col-2 img{
-	max-width: 100%;
+	max-width: 80%;
 	padding: 13px 1px 25px;
+	margin-left: 27px;
 	}
 
 
