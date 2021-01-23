@@ -104,13 +104,11 @@ body{
 	}
 .col-2{
 	flex-basis:50%;
-	min-width: 300px;
-	align-items: center;
+	min-width: 250px;	
 	}
 .col-2 img{
 	max-width: 100%;
-	padding: 50px 0;
-	align-items: center;
+	padding: 50px 0;	
 	}
 .btn{
 	display: inline-block;
