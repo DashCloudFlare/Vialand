@@ -103,11 +103,11 @@ body{
 .col-2{
 	flex-basis:50%;
 	min-width: 250px;
-	padding: 0 15px;	
+	padding: 13px 15px 25px;	
 	}
 .col-2 img{
 	max-width: 100%;	
-	padding: 0 15px;
+	padding: 13px 15px 25px;
 	}
 
 .quan-row-1{
