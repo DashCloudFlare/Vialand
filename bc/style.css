@@ -110,11 +110,29 @@ body{
 	padding: 13px 15px 25px;
 	}
 
+
 .khuvuc{
 	width: 80%;	
 	position: relative;
 	margin: 100px auto;
 	}
+.tphcm{
+	display: flex;	
+	max-width: 60%;	
+	justify-content: space-around;
+	margin: 0 auto;	
+	}
+.col-4{
+	min-width: 20vh;
+	max-width: 100%;
+	}
+.col-4 ul{
+	list-style: none;
+	}
+.col-4 a{
+	text-decoration: none;	
+	}
+
 
 .quan-row-1{
 	margin: 12vh auto 0;
