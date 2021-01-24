@@ -123,8 +123,7 @@ body{
 	align-items: center;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	border-bottom: #d0d0d0 solid 1px;
-	position: relative;
+	border-bottom: #d0d0d0 solid 1px;	
 	}
 .quan-col-2{
 	flex-basis:25%;
