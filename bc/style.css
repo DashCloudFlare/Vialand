@@ -124,7 +124,7 @@ body{
 	flex-wrap: wrap;
 	justify-content: space-around;
 	border-bottom: #d0d0d0 solid 1px;
-	position: absolute;
+	position: relative;
 	}
 .quan-col-2{
 	flex-basis:25%;
