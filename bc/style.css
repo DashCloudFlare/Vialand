@@ -110,6 +110,12 @@ body{
 	padding: 13px 15px 25px;
 	}
 
+.khuvuc{
+	width: 80%;	
+	position: relative;
+	margin: 100px auto;
+	}
+
 .quan-row-1{
 	margin: 12vh auto 0;
 	max-width: 72%;
@@ -118,6 +124,7 @@ body{
 	flex-wrap: wrap;
 	justify-content: space-around;
 	border-bottom: #d0d0d0 solid 1px;
+	position: fixed;
 	}
 .quan-col-2{
 	flex-basis:25%;
