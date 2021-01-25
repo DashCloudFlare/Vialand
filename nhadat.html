@@ -27,11 +27,10 @@
 	 </nav>
 
 	<div class="khuvuc">
-		<div class="btn-box">
-			<button>TP HCM</button>
-			<button>HÀ NỘI</button>
-		</div>
+			<div class="tphcm-tab" tabindex="0">TP HCM</div>
+			<div class="hanoi-tab" tabindex="0">HÀ NỘI</div>			
 	</div>
+	
 	<div class="tphcm">
 		<div class="col-4">
 			<ul>
@@ -144,4 +143,13 @@
 	<p>Copyright © 2020 ViaLand. All Rights Reserved.</p>
   </div>
 <script src="app.js"></script>
+<script>
+	var btns =
+	Array.from(document.querySelectorAll('.tphcm-tab'));
+		btns.forEach(function(btn) {
+					btn.addEventListener('click', function() {
+										document.body.innerHTML = Date();
+										});
+					});
+</script>
 </html>
