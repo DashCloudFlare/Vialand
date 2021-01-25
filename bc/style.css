@@ -112,9 +112,20 @@ body{
 
 
 .khuvuc{
-	width: 80%;	
+	width: 60%;
+	display: flex;
+	text-direction: row;
+	justify-content: space-around;	
 	position: relative;
-	margin: 100px auto;
+	margin: 100px auto;		
+	}
+.tphcm-tab{
+	width: 10%;
+	min-width: 15vh;
+	}
+.hanoi-tab{
+	width: 10%;
+	min-width: 15vh;
 	}
 .tphcm{
 	display: flex;	
