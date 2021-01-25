@@ -11,6 +11,7 @@ nav{
 	background-color: #5d4954;
 	font-family: 'Poppins', sans-serif;
 	position: fixed; top: 0; width: 100%;
+	z-index: 1;
 	}
 .logo{
 	color: #fff;
