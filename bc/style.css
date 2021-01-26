@@ -112,38 +112,66 @@ body{
 	}
 
 
+
+
 .khuvuc{
-	width: 60%;
+	width: 45%;
+	margin: 100px auto;
+	color: #3b3b3b;
+	}
+.khuvuc-tab{
 	display: flex;
-	text-direction: row;
-	justify-content: space-around;	
-	position: relative;
-	margin: 100px auto;		
-	}
-.tphcm-tab{
-	width: 10%;
-	min-width: 15vh;
-	}
-.hanoi-tab{
-	width: 10%;
-	min-width: 15vh;
-	}
-.tphcm{
-	display: flex;	
-	max-width: 60%;	
+	justify-content: center;
 	justify-content: space-around;
-	margin: 0 auto;	
+	background: #fbfbfb;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	margin-buttom: 25px;
 	}
-.col-4{
-	min-width: 20vh;
-	max-width: 100%;
+.tphcm-tab,
+.hanoi-tab{	
+	min-width: 12.2vh;	
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 0.2s ease;
+	position: relative;
 	}
-.col-4 ul{
-	list-style: none;
+.tphcm-tab:before,
+.hanoi-tab:before{
+	content: "";
+	position: absolute;
+	bottom: -1px;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background: #028f09;
+	transition: all 0.2s ease;
+	opacity: 0;
+		}
+.tphcm-tab:hover,
+.hanoi-tab:hover,
+.tphcm-tab.active,
+.hanoi-tab.active{
+	background: #e8f5f1;
+	color: #028f09;
+		}
+.tphcm-tab:hover:before,
+.hanoi-tab:hover:before,
+.tphcm-tab.active:before,
+.hanoi-tab.active:before{	
+	opacity: 1;
+		}
+
+.khuvuc-content{
+	background: #fbfbfb;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	padding: 20px;
+	margin: 2vh 0;
 	}
-.col-4 a{
-	text-decoration: none;	
-	}
+
 
 
 .quan-row-1{
