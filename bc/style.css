@@ -164,7 +164,6 @@ body{
 .hanoi-tab.active:before{	
 	opacity: 1;
 		}
-
 .khuvuc-content{
 	background: #fbfbfb;
 	border: 1px solid #dddddd;
@@ -172,7 +171,16 @@ body{
 	padding: 20px;
 	margin: 2vh 0;
 	}
+.khuvuc-list ul{
+	
+	}
+.khuvuc-list ul li{
+	list-style: none;	
+		}
 
+.khuvuc-list ul li a{
+	text-decoration: none;	
+		}
 
 
 .quan-row-1{
