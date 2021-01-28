@@ -196,25 +196,27 @@ body{
 	}
 
 
+
 .quan-row-1{
-	margin: 12vh auto 0;
-	max-width: 72%;
+	margin: 12vh auto 0;	
+	max-width: 80%;
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	border-bottom: #d0d0d0 solid 1px;	
 	}
 .quan-col-2{
-	flex-basis:25%;
-	min-width: 392px;
-	padding: 13px 1px 25px;
-	margin-left: 33px;
+	flex-basis:50%;
+	min-width: 250px;
+	padding: 13px 15px 25px;	
 	}
 .quan-col-2 img{
-	max-width: 80%;
-	padding: 13px 1px 25px;
-	margin-left: 20px;
+	display: inline-block;
+    	height: 18.3vh;
+    	width: 13.5vh;	
+    	overflow: hidden;	
+	padding: 13px 15px 25px;
+	float: right;
 	}
 
 
