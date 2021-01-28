@@ -7,7 +7,7 @@ nav{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	min-height: 8vh;
+	min-height: 10vh;
 	background-color: #5d4954;
 	font-family: 'Poppins', sans-serif;
 	position: fixed; top: 0; width: 100%;
@@ -120,8 +120,8 @@ body{
 
 
 .khuvuc{
-	width: 63%;
-	margin: 100px auto;
+	width: 68%;
+	margin: 135px auto;
 	color: #3b3b3b;
 	}
 .khuvuc-tab{
