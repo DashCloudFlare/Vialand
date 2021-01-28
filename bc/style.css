@@ -130,7 +130,8 @@ body{
 	justify-content: space-around;
 	background: #fbfbfb;
 	border-bottom: 1px solid #dddddd;
-	border-radius: 5px;	
+	border-radius: 5px;
+	height: 3.9vh;
 	}
 .tphcm-tab,
 .hanoi-tab{	
