@@ -35,7 +35,7 @@ var khuvuc_list = document.querySelectorAll('.khuvuc-list');
 											   tab.classList.add('active');
 											   khuvuc_list.forEach(function(content, content_index){
 		if(content_index == tab_index) {
-						content.style.display = "block";
+						content.style.display = "flex";
 						}
 						else{
 						    content.style.display = "none";
