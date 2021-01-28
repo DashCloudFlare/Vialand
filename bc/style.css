@@ -71,6 +71,9 @@ nav{
 	.burger{
 		display: block;
 	}
+	.khuvuc-list{
+		flex-direction: column;
+	}
 }
 
 
@@ -172,8 +175,8 @@ body{
 	padding: 20px;
 	margin: 2vh 0;
 	}
-.khuvuc-list ul{
-	
+.khuvuc-list{
+	justify-content: space-around;
 	}
 .khuvuc-list ul li{
 	list-style: none;	
