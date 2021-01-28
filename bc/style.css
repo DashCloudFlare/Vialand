@@ -162,6 +162,7 @@ body{
 	background: #e8f5f1;
 	color: #028f09;
 	outline: none;
+	border-radius: 7px;
 		}
 .tphcm-tab:hover:before,
 .hanoi-tab:hover:before,
