@@ -7,7 +7,7 @@ nav{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	min-height: 9vh;
+	min-height: 10vh;
 	background-color: #5d4954;
 	font-family: 'Poppins', sans-serif;
 	position: fixed; top: 0; width: 100%;
@@ -198,7 +198,7 @@ body{
 
 .quan-content{
 	width: 90%;
-	margin: 115px auto;
+	margin: 120px auto 80px;
 	color: #3b3b3b;
 	}
 .quan-row-1{	
