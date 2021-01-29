@@ -214,13 +214,20 @@ body{
 	font-size: 15px;
 	margin-left: 2vh;		
 	}
+.quan-col-right a{
+	text-decoration: none;
+	color: #3b3b3b;
+	font-weight: bold;
+		}
 .quan-col-left img{
 	display: inline-block;
     	height: 13.8vh;
     	width: 13.8vh;	
     	overflow: hidden;	
 	}
-
+.xem-them{
+	color: #ff523b;
+	}
 
 .btn{
 	display: inline-block;
