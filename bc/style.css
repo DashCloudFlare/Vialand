@@ -196,21 +196,25 @@ body{
 	}
 
 
-
+.quan-content{
+	width: 90%;
+	margin: 100px auto;
+	color: #3b3b3b;
+	}
 .quan-row-1{	
-	margin: 2vh auto 2vh;	
+	margin: 2vh auto 2vh;
 	display: flex;
 	//max-width: 60%;
 	//align-items: center;		
 	border-bottom: solid 1px #f4f4f4;
-	padding-bottom: 2vh;	
+	padding-bottom: 1.5vh;	
 	}
-.quan-col-2{
+.quan-col-right{
 	font-family: sans-serif;
 	font-size: 15px;
 	margin-left: 2vh;		
 	}
-.quan-col-2 img{
+.quan-col-left img{
 	display: inline-block;
     	height: 15vh;
     	width: 15vh;	
