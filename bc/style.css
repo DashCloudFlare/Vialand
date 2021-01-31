@@ -204,7 +204,7 @@ body{
 	color: #3b3b3b;
 	}
 .quan-row-1{	
-	margin: 2vh auto 2vh;
+	margin: 0 auto 2vh;
 	display: flex;
 	//max-width: 60%;
 	//align-items: center;		
