@@ -197,6 +197,8 @@ body{
 
 
 .quan-content{
+	display: flex;
+	flex-direction: column;
 	width: 90%;
 	margin: 120px auto 80px;
 	color: #3b3b3b;
