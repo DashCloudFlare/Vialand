@@ -230,7 +230,9 @@ body{
     	overflow: hidden;	
 	}
 
-
+.red{
+	color: #DC2326;
+	}
 .btn{
 	display: inline-block;
 	background: #ff523b;
