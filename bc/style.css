@@ -207,7 +207,7 @@ body{
 	//max-width: 60%;
 	//align-items: center;		
 	border-bottom: solid 1px #f4f4f4;
-	padding-bottom: 1.5vh;	
+	padding-bottom: 1vh;	
 	}
 .quan-col-right{
 	font-family: sans-serif;
@@ -221,8 +221,8 @@ body{
 		}
 .quan-col-left img{
 	display: inline-block;
-    	height: 13.8vh;
-    	width: 13.8vh;	
+    	height: 11.8vh;
+    	width: 11.8vh;	
     	overflow: hidden;	
 	}
 
