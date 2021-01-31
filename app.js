@@ -1,13 +1,13 @@
 const navSlide = () => {
 	const burger = document.querySelector('.burger');
 	const nav = document.querySelector('.nav-links');
-	const navLinks = document.querySelectorAll('.nav-links li');	
-	
+	const navLinks = document.querySelectorAll('.nav-links li');
+
 	burger.addEventListener('click', () => {
 
 //Toggle_Nav
-		nav.classList.toggle('nav-active');		
-		
+		nav.classList.toggle('nav-active');
+
 //Animate_Links
 		navLinks.forEach((link, index) => {
 		     if (link.style.animation) {
@@ -41,5 +41,5 @@ var khuvuc_list = document.querySelectorAll('.khuvuc-list');
 						    content.style.display = "none";
 						    }
 						})
-					})	
-				})	
+					})
+				})
