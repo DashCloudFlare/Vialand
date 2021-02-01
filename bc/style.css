@@ -280,6 +280,8 @@ img {vertical-align: middle;}
 
 
 .slideshow-container {
+  display: flex;
+  align-items: center;
   height: 65vh;
   width: 100%;	
   overflow: hidden;
