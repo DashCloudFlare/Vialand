@@ -75,12 +75,7 @@ nav{
 	.col-right{
 		display: flex;
 		flex-direction: column;
-	}
-	.prev,
-	.next, 
-	.numbertext{
-		font-size: 11px;
-	}
+	}	
 }
 
 
