@@ -229,7 +229,21 @@ body{
     	width: 11.8vh;	
     	overflow: hidden;	
 	}
-
+.phuong-title{
+	margin: 0 auto 2vh;
+	display: flex;
+	justify-content: center;	
+	border-top: solid 1px #f4f4f4;
+	padding-top: 1.5vh;	
+	max-width: 100%;
+	line-height: 1.5;
+	font-family: sans-serif;
+	font-size: 15px;
+	margin-left: 2vh;
+	text-decoration: none;
+	color: #3b3b3b;
+	font-weight: bold;
+	}
 .red{
 	color: #DC2326;
 	}
@@ -282,10 +296,10 @@ img {vertical-align: middle;}
 .slideshow-container {
   display: flex;
   align-items: center;
-  height: 65vh;
+  height: 49vh;
   width: 100%;	
   overflow: hidden;
-  max-width: 815px;
+  max-width: 678px;
   position: relative;
   margin: 13.5vh auto 1.5vh;
 }
