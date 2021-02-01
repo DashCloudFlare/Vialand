@@ -282,7 +282,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 900px;
   position: relative;
-  margin: 13.5vh auto 2vh;
+  margin: 13.5vh auto 1.5vh;
 }
 
 .prev, .next {
