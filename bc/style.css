@@ -258,6 +258,30 @@ body{
 	text-decoration: none;
 	color: #3b3b3b;	
 	}
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #f4f4f4;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+ul.breadcrumb li+li:before {
+  padding: 5px;
+  color: #a6a6a6;
+  content: "/\00a0";
+}
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+
 .red{
 	color: #DC2326;
 	}
