@@ -262,6 +262,9 @@ ul.breadcrumb {
   padding: 10px 16px;
   list-style: none;
   background-color: #f4f4f4;
+	display: flex;
+	justify-content: center;	
+	max-width: 100%;
 }
 ul.breadcrumb li {
   display: inline;
