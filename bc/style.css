@@ -230,7 +230,7 @@ body{
     	overflow: hidden;	
 	}
 .phuong-title{
-	margin: 0 auto 2vh;
+	margin: 0 auto 0.5vh;
 	display: flex;
 	justify-content: center;	
 	border-top: solid 1px #f4f4f4;
