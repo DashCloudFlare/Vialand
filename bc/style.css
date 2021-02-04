@@ -98,9 +98,21 @@ nav{
 body{
 	font-family: 'Poppins', sans-serif;	
 	}
+
+.banner-container{
+  display: flex;
+  align-items: center;
+  height: 58vh;
+  width: 100%;	
+  overflow: hidden;
+  max-width: 100%;
+  position: relative;
+  margin: 9.5vh auto 1vh;
+}
 .row-1{
 	margin: 12vh auto 0;	
 	max-width: 80%;
+	height: 100%;
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
@@ -109,6 +121,7 @@ body{
 .col-2{
 	flex-basis:50%;
 	min-width: 250px;
+	height: 52vh;
 	padding: 13px 15px 25px;	
 	}
 .col-2 img{
