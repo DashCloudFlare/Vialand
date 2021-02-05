@@ -94,7 +94,7 @@ nav{
 
 body{
 	font-family: 'Poppins', sans-serif;
-	margin: 9.5vh auto 1vh;
+	margin: 9.5vh auto 0;
 	}
 
 .banner-container{
@@ -430,7 +430,7 @@ footer{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	margin: 12.5vh auto 0;
+	margin: 6.5vh auto 0;
 	}
 footer .page-footer{
 	display: flex;
