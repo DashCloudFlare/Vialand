@@ -100,7 +100,7 @@ body{
 .banner-container{
 	display: flex;
 	align-items: center;
-	height: 60vh;
+	height: 59vh;
 	width: 100%;
 	overflow: hidden;
 	max-width: 100%;
