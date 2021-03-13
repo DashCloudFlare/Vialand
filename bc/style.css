@@ -190,6 +190,8 @@ body{
 	flex-basis:50%;
 	min-width: 250px;
 	height: 52vh;
+	align-items: center;
+	text-align: center;
 	padding: 13px 15px 13px;
 	}
 .col-2 img{
