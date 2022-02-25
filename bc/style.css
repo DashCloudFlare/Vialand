@@ -99,12 +99,12 @@ body{
 .banner-container{
 	display: flex;
 	align-items: center;
-	height: 58vh;
+	height: 56vh;
 	width: 100%;
 	overflow: hidden;
 	max-width: 100%;
 	position: relative;
-	margin: 9.5vh auto 1vh;
+	margin: 0 auto 1vh;
 	}
 .row-1{
 	margin: 12vh auto 0;
