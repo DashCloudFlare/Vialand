@@ -480,3 +480,19 @@ footer .page-footer ul li a:hover{
 	text-align:center;
 	color: #999;
 	}
+@media only screen and (max-width: 768px){
+	footer{
+		padding:40px;
+		}
+	footer .page-footer{
+		flex-direction: column;
+		}
+	footer .page-footer .section-aboutus, .section-quicklinks{
+		margin-right: 0;
+		margin-bottom: 40px;
+		width: 100%;
+		}
+	footer .page-footer .section-contact, .section-quicklinks{
+		display: none;
+		}
+	}
