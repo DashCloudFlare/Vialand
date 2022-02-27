@@ -239,7 +239,7 @@ body{
 	left: 0;
 	width: 100%;
 	height: 2px;
-	background: #6502e6;
+	background: #4a02e6;
 	transition: all 0.2s ease;
 	opacity: 0;
 		}
@@ -248,7 +248,7 @@ body{
 .tphcm-tab.active,
 .hanoi-tab.active{
 	background: #e8f5f1;
-	color: #6502e6;
+	color: #4a02e6;
 	outline: none;
 	border-radius: 7px;
 	}
@@ -423,7 +423,7 @@ img {vertical-align: middle;}
 	overflow: hidden;
 	max-width: 678px;
 	position: relative;
-	margin: 13.5vh auto 1vh;
+	margin: 11.5vh auto 1vh;
 }
 .prev, .next {
 	cursor: pointer;
