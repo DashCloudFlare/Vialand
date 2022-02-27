@@ -43,6 +43,9 @@ nav{
 	background-color: #fff;
 	margin: 5px;
 	}
+iframe{
+	border: none;
+}
 @media only screen and (max-width: 1024px) {
 	.nav-links{
 	width: 60%;
@@ -124,7 +127,7 @@ body{
 	width: 89vh;
 	overflow: hidden;
 	margin-bottom: 3.5vh;
-	margin-right: 1.5vh;
+	//margin-right: 1.5vh;
 	}
 .hot-news-image {
 	display: block;
