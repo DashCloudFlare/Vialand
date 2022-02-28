@@ -245,7 +245,7 @@ body{
 	left: 0;
 	width: 100%;
 	height: 2px;
-	background: #3702e6;
+	background: #1502e6;
 	transition: all 0.2s ease;
 	opacity: 0;
 		}
@@ -254,7 +254,7 @@ body{
 .tphcm-tab.active,
 .hanoi-tab.active{
 	background: #e8f5f1;
-	color: #3702e6;
+	color: #1502e6;
 	outline: none;
 	border-radius: 7px;
 	}
