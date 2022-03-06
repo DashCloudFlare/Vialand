@@ -312,7 +312,7 @@ body{
 .quan-col-right a{
 	text-decoration: none;
 	color: #3b3b3b;
-	font-weight: bold;
+	//font-weight: bold;
 		}
 .quan-col-left img{
 	display: inline-block;
