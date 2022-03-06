@@ -425,7 +425,7 @@ img {vertical-align: middle;}
 .slideshow-container {
 	display: flex;
 	align-items: center;
-	height: 49vh;
+	height: 59vh;
 	width: 100%;
 	overflow: hidden;
 	max-width: 678px;
